@@ -24,7 +24,7 @@ import packaging.utils
 import packaging.version
 
 
-__version__ = '0.8.0'
+__version__ = '0.8.0rc1'
 
 
 class ConfigurationError(Exception):
